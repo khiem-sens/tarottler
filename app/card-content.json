@@ -1,0 +1,1016 @@
+{
+  "The Fool": {
+    "keywords": [
+      "beginnings",
+      "curiosity",
+      "openness"
+    ],
+    "image": "A traveler nears a cliff with a white dog at their feet; a small bundle hangs from a staff beneath a bright sun.",
+    "general": "The Fool invites a new start without demanding a complete map. Curiosity helps, while a glance at the edge keeps the step intentional.",
+    "love": "In relationships, openness can make room for someone new; keep your boundaries as you explore.",
+    "work": "Try a first draft or a small experiment before committing to the full plan.",
+    "money": "Leave room for discovery, but check the cost of a new commitment before you leap.",
+    "reflection": "What first step feels exciting and still respects your limits?"
+  },
+  "The Magician": {
+    "keywords": [
+      "initiative",
+      "skill",
+      "focus"
+    ],
+    "image": "One hand points upward and the other downward; a wand, cup, sword, and pentacle rest on the table among flowers.",
+    "general": "The Magician turns intention into action by noticing the tools already available. Focus makes possibilities more concrete.",
+    "love": "Say what you mean and notice whether actions match promises.",
+    "work": "Use a skill you already have to move one idea into practice.",
+    "money": "List available resources before buying another tool or taking on a new expense.",
+    "reflection": "What can you make with what is already in your hands?"
+  },
+  "The High Priestess": {
+    "keywords": [
+      "intuition",
+      "stillness",
+      "insight"
+    ],
+    "image": "A seated figure rests between black and white pillars; a patterned veil and a scroll sit nearby.",
+    "general": "The High Priestess suggests listening before explaining. Some information becomes clearer through observation and time.",
+    "love": "Allow space for feelings that are not ready to be named; avoid assuming silence has one meaning.",
+    "work": "Research quietly and give an uncertain question time before presenting a conclusion.",
+    "money": "Pause a decision if key figures or terms remain unclear.",
+    "reflection": "What do you notice when you stop pressing for an immediate answer?"
+  },
+  "The Empress": {
+    "keywords": [
+      "nurture",
+      "growth",
+      "abundance"
+    ],
+    "image": "A crowned figure sits on cushions beside wheat; trees and flowing water surround her.",
+    "general": "The Empress links growth with care, comfort, and sustained attention. What is tended has room to develop.",
+    "love": "Offer warmth and receive it too; care works best when it is mutual.",
+    "work": "Create conditions in which a project or person can grow, rather than pushing for instant results.",
+    "money": "Support what matters while keeping generosity within a workable budget.",
+    "reflection": "What in your life would benefit from regular care?"
+  },
+  "The Emperor": {
+    "keywords": [
+      "structure",
+      "boundaries",
+      "responsibility"
+    ],
+    "image": "An armored ruler sits on a stone throne carved with rams; bare mountains rise behind him.",
+    "general": "The Emperor asks where a clear framework could provide stability. Authority is most useful when paired with accountability.",
+    "love": "Set expectations openly and make space for both people's needs.",
+    "work": "Define ownership, deadlines, and decisions so good work has a dependable structure.",
+    "money": "Make a plan and revisit its assumptions instead of treating a budget as a commandment.",
+    "reflection": "Where would a firmer boundary bring relief?"
+  },
+  "The Hierophant": {
+    "keywords": [
+      "learning",
+      "tradition",
+      "guidance"
+    ],
+    "image": "A robed teacher raises a hand between two pillars; two followers kneel before him with crossed keys below.",
+    "general": "The Hierophant points to shared knowledge and the communities that pass it on. Learn the rules, then decide which remain useful.",
+    "love": "Talk about values and expectations you may have inherited from family or culture.",
+    "work": "Seek mentorship, understand a process, and question it respectfully where needed.",
+    "money": "Read the established terms and ask for guidance before signing up to a complex arrangement.",
+    "reflection": "Which tradition supports you, and which one deserves review?"
+  },
+  "The Lovers": {
+    "keywords": [
+      "choice",
+      "alignment",
+      "connection"
+    ],
+    "image": "Two figures stand beneath an angel; a fruit tree and a flame-bearing tree frame the landscape.",
+    "general": "The Lovers concerns an honest choice guided by values as much as attraction. Connection deepens when people choose with awareness.",
+    "love": "Discuss what each person wants rather than relying on chemistry alone.",
+    "work": "Choose a direction that fits your values, even when several options look appealing.",
+    "money": "Let shared priorities guide a financial choice, especially when another person is involved.",
+    "reflection": "What value do you want this choice to express?"
+  },
+  "The Chariot": {
+    "keywords": [
+      "direction",
+      "discipline",
+      "resolve"
+    ],
+    "image": "An armored driver stands in a chariot before a city; black and white sphinxes face forward below.",
+    "general": "The Chariot is forward motion shaped by self-direction. Different impulses need not agree before you can set a course.",
+    "love": "Name a shared goal while allowing different feelings about the pace.",
+    "work": "Focus your energy on the next milestone and keep distractions from steering the work.",
+    "money": "Set a target and track progress without confusing speed with security.",
+    "reflection": "What will help you stay on course without forcing everything?"
+  },
+  "Strength": {
+    "keywords": [
+      "patience",
+      "courage",
+      "gentleness"
+    ],
+    "image": "A woman gently holds a lion's jaws; flowers and an infinity sign soften the scene.",
+    "general": "Strength portrays courage as calm attention rather than domination. Patience can change a difficult interaction.",
+    "love": "Meet tension with honesty and care, while preserving your boundaries.",
+    "work": "Handle a challenge steadily; influence may work better than pressure.",
+    "money": "Face an uncomfortable number without shame and make one manageable change.",
+    "reflection": "Where can you choose steadiness over force?"
+  },
+  "The Hermit": {
+    "keywords": [
+      "reflection",
+      "solitude",
+      "guidance"
+    ],
+    "image": "A cloaked figure stands on a peak with a lantern and staff; the surrounding ground is sparse.",
+    "general": "The Hermit makes space to hear your own thinking. A pause can guide a decision more clearly than constant input.",
+    "love": "Ask for breathing room without disappearing from an important conversation.",
+    "work": "Step back to review the purpose of a task before adding more activity.",
+    "money": "Review spending privately and carefully before seeking outside opinions.",
+    "reflection": "What becomes clearer when you give yourself quiet time?"
+  },
+  "Wheel of Fortune": {
+    "keywords": [
+      "cycles",
+      "change",
+      "perspective"
+    ],
+    "image": "A wheel turns in the sky with figures around its rim; winged figures occupy the four corners.",
+    "general": "The Wheel of Fortune reminds us that conditions change. You cannot control every turn, but you can choose a response.",
+    "love": "Be flexible when circumstances alter plans; avoid reading every shift as a verdict on the bond.",
+    "work": "Prepare for changing priorities and adapt a plan when new information arrives.",
+    "money": "Keep a buffer for uncertainty rather than assuming a favorable period lasts forever.",
+    "reflection": "What is changing, and what remains within your influence?"
+  },
+  "Justice": {
+    "keywords": [
+      "fairness",
+      "truth",
+      "accountability"
+    ],
+    "image": "A seated figure holds scales in one hand and a raised sword in the other between red curtains.",
+    "general": "Justice calls for a clear-eyed look at facts, consequences, and fairness. A balanced decision may still be difficult.",
+    "love": "Listen to both sides and own your part in a disagreement.",
+    "work": "Check evidence and criteria before evaluating someone or making a decision.",
+    "money": "Compare terms carefully and correct an imbalance you can document.",
+    "reflection": "What information would make this decision fairer?"
+  },
+  "The Hanged Man": {
+    "keywords": [
+      "pause",
+      "perspective",
+      "surrender"
+    ],
+    "image": "A calm figure hangs by one foot from a wooden frame; light surrounds the head while the other leg bends.",
+    "general": "The Hanged Man suggests a chosen pause can reveal a different angle. Waiting is useful when it changes how you see.",
+    "love": "Give a difficult exchange space before trying to win it.",
+    "work": "Reframe a stalled problem instead of repeating the same approach.",
+    "money": "Delay an optional purchase while you reconsider what you actually need.",
+    "reflection": "What could you understand by looking from the opposite side?"
+  },
+  "Death": {
+    "keywords": [
+      "endings",
+      "transition",
+      "release"
+    ],
+    "image": "An armored rider carries a dark banner; figures stand nearby and a sunrise appears between distant towers.",
+    "general": "Death symbolizes a necessary transition rather than a literal event. Naming what has ended makes room for a new phase.",
+    "love": "Let a pattern end even if the relationship continues in a new form.",
+    "work": "Retire a method that no longer serves the work and plan the handover.",
+    "money": "Close an unhelpful expense or obligation before adding another.",
+    "reflection": "What are you ready to release with care?"
+  },
+  "Temperance": {
+    "keywords": [
+      "balance",
+      "integration",
+      "patience"
+    ],
+    "image": "An angel pours liquid between two cups with one foot on land and one in water; a path leads toward the hills.",
+    "general": "Temperance is the art of adjusting proportions. A workable blend often matters more than an extreme answer.",
+    "love": "Find a pace that honors both people's needs rather than rushing agreement.",
+    "work": "Combine methods, test small changes, and leave time for learning.",
+    "money": "Balance present needs with longer-term goals through repeatable habits.",
+    "reflection": "What two things could work better together?"
+  },
+  "The Devil": {
+    "keywords": [
+      "attachment",
+      "habit",
+      "agency"
+    ],
+    "image": "Two figures stand with loose chains before a horned figure; a dark pedestal and torch anchor the scene.",
+    "general": "The Devil invites you to notice a habit or attachment that narrows your sense of choice. Awareness is a first step toward agency.",
+    "love": "Name patterns of control or dependence without blaming yourself for having them.",
+    "work": "Question incentives that keep you stuck in work that no longer fits.",
+    "money": "Identify the emotional pull behind a recurring expense and consider alternatives.",
+    "reflection": "Where do you have more choice than it first seems?"
+  },
+  "The Tower": {
+    "keywords": [
+      "disruption",
+      "truth",
+      "rebuilding"
+    ],
+    "image": "Lightning strikes a tall tower and its crown falls; two figures tumble through a dark sky.",
+    "general": "The Tower shows a sudden break in a structure that seemed secure. The work afterward is to respond to what is real.",
+    "love": "A hard truth may change the shape of a connection; prioritize safety and honest repair.",
+    "work": "When a plan fails, stabilize the essentials before designing a replacement.",
+    "money": "Check immediate obligations and seek support before making large reactive decisions.",
+    "reflection": "What foundation needs attention after the shock?"
+  },
+  "The Star": {
+    "keywords": [
+      "hope",
+      "renewal",
+      "openness"
+    ],
+    "image": "A kneeling figure pours water onto land and into a pool; one large star shines above smaller stars.",
+    "general": "The Star offers a quiet kind of hope after difficulty. Restoration can begin with simple, repeated care.",
+    "love": "Rebuild trust through small, consistent acts rather than grand promises.",
+    "work": "Reconnect with the purpose of your work and allow a gradual return of energy.",
+    "money": "Make a realistic recovery plan rather than expecting one dramatic fix.",
+    "reflection": "What helps you feel restored and connected to possibility?"
+  },
+  "The Moon": {
+    "keywords": [
+      "uncertainty",
+      "dreams",
+      "intuition"
+    ],
+    "image": "A winding path passes between two towers; a dog and wolf face the moon while a creature rises from water.",
+    "general": "The Moon speaks to ambiguity, emotion, and incomplete information. Notice the feeling without treating it as proof.",
+    "love": "Ask a question directly rather than building a story from mixed signals.",
+    "work": "Verify assumptions before acting on a vague concern or rumor.",
+    "money": "Avoid a commitment when key details remain obscured.",
+    "reflection": "Which fear or intuition needs a closer, kinder look?"
+  },
+  "The Sun": {
+    "keywords": [
+      "clarity",
+      "joy",
+      "vitality"
+    ],
+    "image": "A child rides a white horse beneath a bright sun; sunflowers grow behind a wall.",
+    "general": "The Sun brings things into the open and invites uncomplicated recognition of what is working.",
+    "love": "Enjoy a warm moment together and speak appreciation plainly.",
+    "work": "Share a clear result and acknowledge the people who helped create it.",
+    "money": "Notice progress while keeping the practical details in view.",
+    "reflection": "What can you celebrate without minimizing the effort behind it?"
+  },
+  "Judgement": {
+    "keywords": [
+      "review",
+      "awakening",
+      "renewal"
+    ],
+    "image": "An angel sounds a trumpet above figures rising from open coffins; mountains stretch across the horizon.",
+    "general": "Judgement invites an honest review of the past and a response to what now calls for change.",
+    "love": "Discuss what has been learned rather than replaying old blame.",
+    "work": "Use feedback to decide what to continue, revise, or leave behind.",
+    "money": "Review past choices and set a more conscious direction from here.",
+    "reflection": "What would you choose differently with what you know now?"
+  },
+  "The World": {
+    "keywords": [
+      "completion",
+      "integration",
+      "transition"
+    ],
+    "image": "A dancing figure stands inside an oval wreath; four figures appear at the corners of the card.",
+    "general": "The World recognizes a cycle brought to completion. The end is a chance to integrate the journey before beginning another.",
+    "love": "Acknowledge how a bond has grown and what the next chapter may ask of you.",
+    "work": "Close the project well, share the learning, and mark the achievement.",
+    "money": "Review what a completed goal cost and made possible before setting the next one.",
+    "reflection": "What deserves recognition before you move on?"
+  },
+  "Ace of Wands": {
+    "keywords": [
+      "spark",
+      "initiative",
+      "potential"
+    ],
+    "image": "A hand extends from a cloud holding a leafy wand; a distant castle sits beneath the hills.",
+    "general": "The Ace of Wands is the first spark of a creative or energetic path. Give it a small, practical place to grow.",
+    "love": "Notice a fresh attraction or a new way to bring energy to an existing bond.",
+    "work": "Start the idea while motivation is present, even if the first version is rough.",
+    "money": "Explore the cost of a new venture before investing beyond a test.",
+    "reflection": "What small action could give this spark a real beginning?"
+  },
+  "Two of Wands": {
+    "keywords": [
+      "planning",
+      "choice",
+      "horizon"
+    ],
+    "image": "A figure holds a globe on a battlement; one wand is held while another is fixed to the wall.",
+    "general": "The Two of Wands asks you to look beyond what is familiar and choose a direction. Planning turns desire into a route.",
+    "love": "Talk about future plans without assuming both people want the same horizon.",
+    "work": "Compare two paths and decide what evidence you need before committing.",
+    "money": "Budget for exploration while protecting what already provides stability.",
+    "reflection": "Which direction is worth preparing for now?"
+  },
+  "Three of Wands": {
+    "keywords": [
+      "expansion",
+      "foresight",
+      "progress"
+    ],
+    "image": "A figure watches ships from a high shore; three wands stand planted in the ground.",
+    "general": "The Three of Wands is the wait after an intentional launch. Progress may be happening beyond your immediate view.",
+    "love": "Allow a connection room to develop while keeping communication open.",
+    "work": "Follow up on work already sent out and prepare for the next phase.",
+    "money": "Track the return on an investment of time or money without demanding instant results.",
+    "reflection": "What has begun moving because of an earlier choice?"
+  },
+  "Four of Wands": {
+    "keywords": [
+      "welcome",
+      "milestone",
+      "belonging"
+    ],
+    "image": "A garland hangs between four upright wands; figures celebrate near a building in the distance.",
+    "general": "The Four of Wands invites you to pause at a shared milestone and feel the support around it.",
+    "love": "Celebrate a moment of ease or make a welcoming space together.",
+    "work": "Mark a completed stage before the team rushes into the next one.",
+    "money": "Enjoy an achievement within a budget that lets the feeling last.",
+    "reflection": "What milestone deserves a moment of celebration?"
+  },
+  "Five of Wands": {
+    "keywords": [
+      "friction",
+      "competition",
+      "practice"
+    ],
+    "image": "Five young figures raise crossing wands in an open landscape; their movements pull in different directions.",
+    "general": "The Five of Wands shows energy without coordination. Conflict can become useful when the purpose is clarified.",
+    "love": "Separate playful difference from a disagreement that needs a real conversation.",
+    "work": "Give competing ideas a fair test and agree on a way to decide.",
+    "money": "Avoid spending simply to keep up with others.",
+    "reflection": "What shared rule would turn friction into progress?"
+  },
+  "Six of Wands": {
+    "keywords": [
+      "recognition",
+      "confidence",
+      "support"
+    ],
+    "image": "A rider wears a laurel wreath on a white horse; a crowd lifts wands around them.",
+    "general": "The Six of Wands recognizes a visible win and the people who helped make it possible.",
+    "love": "Offer sincere appreciation rather than assuming someone knows they matter.",
+    "work": "Share results and credit the team, then consider the next responsibility.",
+    "money": "Enjoy progress without treating one win as a permanent financial trend.",
+    "reflection": "Whose support belongs in this story of success?"
+  },
+  "Seven of Wands": {
+    "keywords": [
+      "conviction",
+      "boundaries",
+      "resilience"
+    ],
+    "image": "A figure stands on higher ground with one wand; six more rise toward them from below.",
+    "general": "The Seven of Wands asks what is worth defending when pressure gathers. A boundary can protect meaningful work.",
+    "love": "Hold to a need without turning every disagreement into a contest.",
+    "work": "Explain the reasoning behind a choice and stay open to useful feedback.",
+    "money": "Protect a financial priority when competing demands appear.",
+    "reflection": "What is worth standing up for, and where can you soften?"
+  },
+  "Eight of Wands": {
+    "keywords": [
+      "momentum",
+      "messages",
+      "timing"
+    ],
+    "image": "Eight wands fly diagonally across a clear sky above a river and green ground.",
+    "general": "The Eight of Wands suggests movement after a slower period. Speed helps when direction is already clear.",
+    "love": "A conversation may move quickly; check that you both understand what is being said.",
+    "work": "Respond to timely opportunities, but confirm the details before sending.",
+    "money": "Move on a clear task promptly without making a rushed financial commitment.",
+    "reflection": "What needs a timely response, and what still needs checking?"
+  },
+  "Nine of Wands": {
+    "keywords": [
+      "endurance",
+      "caution",
+      "recovery"
+    ],
+    "image": "A bandaged figure grips a wand; eight upright wands form a line behind them.",
+    "general": "The Nine of Wands shows persistence shaped by past effort. Protection matters, but constant vigilance can be tiring.",
+    "love": "Share why you feel guarded and distinguish the present from an old hurt.",
+    "work": "Preserve energy near the end of a demanding task and ask for support.",
+    "money": "Keep a buffer and review risk without expecting every setback to repeat.",
+    "reflection": "What boundary supports you without closing you off?"
+  },
+  "Ten of Wands": {
+    "keywords": [
+      "burden",
+      "duty",
+      "limits"
+    ],
+    "image": "A figure carries a heavy bundle of ten wands toward buildings in the distance; the load blocks their view.",
+    "general": "The Ten of Wands asks whether responsibility has become too heavy to carry well. Rebalance before the load defines the whole journey.",
+    "love": "Talk openly about an uneven share of emotional or practical labor.",
+    "work": "Delegate, simplify, or renegotiate a scope that has grown beyond capacity.",
+    "money": "List obligations and choose which can be reduced or postponed.",
+    "reflection": "Which task could you put down or share?"
+  },
+  "Page of Wands": {
+    "keywords": [
+      "curiosity",
+      "exploration",
+      "message"
+    ],
+    "image": "A young figure studies a sprouting wand in a dry landscape; distant pyramids rise behind them.",
+    "general": "The Page of Wands brings a beginner's excitement to an unfamiliar path. Ask questions and test what interests you.",
+    "love": "Approach a new connection with curiosity instead of a fixed script.",
+    "work": "Try a small creative experiment and learn from the response.",
+    "money": "Keep an exploratory budget modest while you discover what fits.",
+    "reflection": "What would you try if learning were the goal?"
+  },
+  "Knight of Wands": {
+    "keywords": [
+      "drive",
+      "adventure",
+      "impulse"
+    ],
+    "image": "An armored rider urges a horse forward with a raised wand; the ground and pyramids suggest heat and distance.",
+    "general": "The Knight of Wands acts with bold energy. Momentum is useful when paired with care for the people and details in its path.",
+    "love": "Enjoy spontaneity while being clear about availability and intentions.",
+    "work": "Lead a fast-moving task, then check where speed is creating rework.",
+    "money": "Separate an exciting opportunity from an impulsive expense.",
+    "reflection": "Where would your energy help most if you paced it?"
+  },
+  "Queen of Wands": {
+    "keywords": [
+      "warmth",
+      "confidence",
+      "presence"
+    ],
+    "image": "A queen sits with a sunflower and wand; a black cat rests at her feet before a throne with lion motifs.",
+    "general": "The Queen of Wands combines self-possession with welcome. Her presence can encourage others without shrinking herself.",
+    "love": "Bring your full personality to a bond and make space for the other person too.",
+    "work": "Lead with confidence, generosity, and clear ownership.",
+    "money": "Spend in line with your values rather than to prove your worth.",
+    "reflection": "Where can you be both visible and generous?"
+  },
+  "King of Wands": {
+    "keywords": [
+      "vision",
+      "leadership",
+      "responsibility"
+    ],
+    "image": "A crowned king holds a wand on a throne decorated with lions and salamanders; the landscape is warm and dry.",
+    "general": "The King of Wands looks beyond the immediate task and helps others move toward a vision. Leadership still needs follow-through.",
+    "love": "Share plans as an invitation, not a decree.",
+    "work": "Set direction, delegate meaningfully, and remain accountable for outcomes.",
+    "money": "Fund a long-term ambition with a plan that respects present limits.",
+    "reflection": "How can you turn vision into responsible action?"
+  },
+  "Ace of Cups": {
+    "keywords": [
+      "openness",
+      "feeling",
+      "renewal"
+    ],
+    "image": "A hand holds an overflowing cup from a cloud; a dove descends and streams fall into water lilies.",
+    "general": "The Ace of Cups marks an opening in emotional life. You can welcome a feeling without deciding its entire future.",
+    "love": "Make room for an honest conversation or a gentle beginning.",
+    "work": "Reconnect with work that matters to you and notice what restores motivation.",
+    "money": "Let generosity be intentional rather than an automatic obligation.",
+    "reflection": "What feeling would you like to make room for?"
+  },
+  "Two of Cups": {
+    "keywords": [
+      "mutuality",
+      "trust",
+      "exchange"
+    ],
+    "image": "Two people offer cups to one another; a winged lion and intertwined staff appear above them.",
+    "general": "The Two of Cups centers on reciprocal attention. Agreement grows when each person can bring something of their own.",
+    "love": "Ask what mutual care looks like in practice, beyond a romantic ideal.",
+    "work": "Build a partnership with clear expectations and equal respect.",
+    "money": "Discuss shared spending openly before making assumptions.",
+    "reflection": "Where are you giving and receiving in balance?"
+  },
+  "Three of Cups": {
+    "keywords": [
+      "friendship",
+      "joy",
+      "community"
+    ],
+    "image": "Three figures lift cups together while dancing; fruit and flowers lie at their feet.",
+    "general": "The Three of Cups celebrates the support and joy found in community. Connection is worth tending outside of major milestones.",
+    "love": "Make time for friends and the relationships that replenish you.",
+    "work": "Share credit, learn with peers, and celebrate a team result.",
+    "money": "Plan a social occasion that feels joyful without strain.",
+    "reflection": "Who would you like to celebrate with?"
+  },
+  "Four of Cups": {
+    "keywords": [
+      "pause",
+      "disinterest",
+      "reassessment"
+    ],
+    "image": "A seated figure crosses their arms beneath a tree; three cups sit nearby while a hand offers another from a cloud.",
+    "general": "The Four of Cups points to a moment of emotional distance. Pause to understand the need beneath it before accepting or rejecting an offer.",
+    "love": "Name what feels missing without dismissing the care already present.",
+    "work": "Reassess a role or opportunity that no longer engages you.",
+    "money": "Avoid an automatic purchase offered as a cure for boredom.",
+    "reflection": "What are you overlooking while focused on what is absent?"
+  },
+  "Five of Cups": {
+    "keywords": [
+      "grief",
+      "disappointment",
+      "perspective"
+    ],
+    "image": "A cloaked figure faces three spilled cups; two remain upright behind them beside a bridge and river.",
+    "general": "The Five of Cups honors disappointment while showing that not everything has been lost. Recovery need not be rushed.",
+    "love": "Give hurt its space, then notice what support or connection remains.",
+    "work": "Learn from a setback without defining your ability by one outcome.",
+    "money": "Address a loss directly and take stock of resources still available.",
+    "reflection": "What remains within reach alongside the loss?"
+  },
+  "Six of Cups": {
+    "keywords": [
+      "memory",
+      "kindness",
+      "familiarity"
+    ],
+    "image": "In a village courtyard, one child offers another a flower-filled cup; more cups and buildings frame the scene.",
+    "general": "The Six of Cups links memory with tenderness. Revisiting the past can comfort you, provided you see the present clearly.",
+    "love": "Reconnect with warmth, but meet the person as they are now.",
+    "work": "Return to a skill or interest you once enjoyed and see what it offers today.",
+    "money": "Compare nostalgia for an old purchase with its usefulness now.",
+    "reflection": "Which memory offers guidance without holding you back?"
+  },
+  "Seven of Cups": {
+    "keywords": [
+      "imagination",
+      "options",
+      "discernment"
+    ],
+    "image": "A shadowed figure faces seven cups in clouds; the cups hold varied figures, treasures, and a wreath.",
+    "general": "The Seven of Cups shows possibility mixed with illusion. Imagination opens doors, while clear criteria help you choose one.",
+    "love": "Notice the difference between a real person and an idealized story.",
+    "work": "Narrow attractive ideas to a few testable options.",
+    "money": "Read the actual terms behind an appealing offer.",
+    "reflection": "Which option still matters after the fantasy fades?"
+  },
+  "Eight of Cups": {
+    "keywords": [
+      "departure",
+      "search",
+      "courage"
+    ],
+    "image": "A figure walks away from stacked cups toward mountains; a moon hangs over the water and path.",
+    "general": "The Eight of Cups suggests leaving something that no longer feels sufficient, even when it once mattered. The search is deliberate.",
+    "love": "Consider whether a pattern can change or whether you need a different path.",
+    "work": "Move toward more meaningful work with a plan for the transition.",
+    "money": "Prepare the practical costs of leaving before you take the step.",
+    "reflection": "What are you seeking beyond what already looks complete?"
+  },
+  "Nine of Cups": {
+    "keywords": [
+      "satisfaction",
+      "gratitude",
+      "enjoyment"
+    ],
+    "image": "A seated figure folds their arms before a curved display of nine cups; the scene feels like a personal celebration.",
+    "general": "The Nine of Cups invites you to enjoy a wish fulfilled and notice what made it possible. Satisfaction need not be defended.",
+    "love": "Share happiness without asking a partner to supply all of it.",
+    "work": "Recognize a result you worked for before moving the goalpost.",
+    "money": "Enjoy a well-chosen reward while keeping future needs in view.",
+    "reflection": "What is already enough to appreciate today?"
+  },
+  "Ten of Cups": {
+    "keywords": [
+      "harmony",
+      "belonging",
+      "shared joy"
+    ],
+    "image": "A family lifts their arms beneath a rainbow of ten cups; children play near a home and river.",
+    "general": "The Ten of Cups pictures shared happiness and a sense of home. It is an invitation to cultivate belonging, not a promise of perfection.",
+    "love": "Define together what a supportive home or relationship feels like.",
+    "work": "Notice how a healthy team culture supports good work.",
+    "money": "Make shared financial plans that reflect everyone's needs.",
+    "reflection": "What does belonging look like in your real life?"
+  },
+  "Page of Cups": {
+    "keywords": [
+      "sensitivity",
+      "imagination",
+      "surprise"
+    ],
+    "image": "A young figure holds a cup with a fish peeking out; waves and a bright tunic animate the scene.",
+    "general": "The Page of Cups encourages a curious response to an unexpected feeling or idea. Wonder can be informative without being a verdict.",
+    "love": "Express a feeling simply and stay open to a surprising response.",
+    "work": "Make room for a playful idea before judging whether it is useful.",
+    "money": "Pause before spending on a charming novelty; enjoy curiosity first.",
+    "reflection": "What would you learn by meeting surprise with openness?"
+  },
+  "Knight of Cups": {
+    "keywords": [
+      "invitation",
+      "idealism",
+      "expression"
+    ],
+    "image": "An armored rider carries a cup on a slow-moving horse beside water; distant hills frame the route.",
+    "general": "The Knight of Cups follows an ideal or heartfelt invitation. Sincerity becomes stronger when it is matched with follow-through.",
+    "love": "Offer a genuine gesture and be clear about what you can sustain.",
+    "work": "Pitch a creative idea with both feeling and practical steps.",
+    "money": "Check whether a beautiful promise has workable terms.",
+    "reflection": "How can you turn a heartfelt intention into a real act?"
+  },
+  "Queen of Cups": {
+    "keywords": [
+      "empathy",
+      "intuition",
+      "care"
+    ],
+    "image": "A queen sits beside the sea holding an ornate closed cup; cherubs decorate the throne and pebbles line the shore.",
+    "general": "The Queen of Cups listens deeply without losing her own center. Empathy needs boundaries to remain generous.",
+    "love": "Listen with care while allowing your needs to be heard too.",
+    "work": "Use emotional insight to understand a team's concerns before responding.",
+    "money": "Notice when spending is an attempt to soothe a feeling that needs another form of care.",
+    "reflection": "What feeling deserves a compassionate boundary?"
+  },
+  "King of Cups": {
+    "keywords": [
+      "composure",
+      "compassion",
+      "balance"
+    ],
+    "image": "A crowned figure sits on a stone throne amid waves, holding a cup and scepter; a fish and ship appear nearby.",
+    "general": "The King of Cups stays steady while emotions move around him. Wise care does not require suppressing what is felt.",
+    "love": "Speak calmly about a difficult emotion rather than withdrawing from it.",
+    "work": "Lead through tension with empathy and a clear decision.",
+    "money": "Make choices from a settled perspective instead of a momentary mood.",
+    "reflection": "What helps you stay open and steady at once?"
+  },
+  "Ace of Swords": {
+    "keywords": [
+      "clarity",
+      "insight",
+      "decision"
+    ],
+    "image": "A hand raises a sword from a cloud; a crown and wreath hang near its point above distant mountains.",
+    "general": "The Ace of Swords offers a clear thought or question that cuts through confusion. Use it with care, not just force.",
+    "love": "Say the honest thing with kindness and listen for the answer.",
+    "work": "Define the problem precisely before reaching for a solution.",
+    "money": "Get the facts and compare terms before making a choice.",
+    "reflection": "What truth would make your next step clearer?"
+  },
+  "Two of Swords": {
+    "keywords": [
+      "stalemate",
+      "pause",
+      "choice"
+    ],
+    "image": "A blindfolded figure crosses two swords beside water; rocks and a crescent moon sit behind them.",
+    "general": "The Two of Swords shows a decision held in suspension. Avoidance may buy time, but it cannot replace information.",
+    "love": "Ask what has gone unsaid rather than waiting for the tension to vanish.",
+    "work": "Identify the missing facts and set a date to decide.",
+    "money": "Compare two options on criteria you can actually verify.",
+    "reflection": "What information would help you uncross this decision?"
+  },
+  "Three of Swords": {
+    "keywords": [
+      "hurt",
+      "grief",
+      "honesty"
+    ],
+    "image": "Three swords pierce a red heart; rain falls beneath heavy clouds.",
+    "general": "The Three of Swords acknowledges pain plainly. Naming a hurt can begin repair, even when it does not erase the feeling.",
+    "love": "Make room for grief or disappointment without turning it into a final story about yourself.",
+    "work": "Hear difficult feedback and separate the lesson from your self-worth.",
+    "money": "Face an unwelcome cost or loss, then plan the next practical step.",
+    "reflection": "What pain needs to be named before it can soften?"
+  },
+  "Four of Swords": {
+    "keywords": [
+      "rest",
+      "recovery",
+      "perspective"
+    ],
+    "image": "A stone figure lies in a quiet chapel; three swords hang above and one rests below near stained glass.",
+    "general": "The Four of Swords offers a deliberate pause after strain. Rest can be part of the work, not a failure to act.",
+    "love": "Take a breather before resuming a difficult conversation.",
+    "work": "Protect time to recover and review before another demanding phase.",
+    "money": "Pause nonessential decisions until you can assess them calmly.",
+    "reflection": "What kind of rest would help you think more clearly?"
+  },
+  "Five of Swords": {
+    "keywords": [
+      "conflict",
+      "cost",
+      "perspective"
+    ],
+    "image": "A figure gathers swords with a sharp expression; two others turn away near water under a troubled sky.",
+    "general": "The Five of Swords asks what a victory costs when trust is damaged. A win may need a more honest measure.",
+    "love": "Choose repair over scoring a point in an argument.",
+    "work": "Review whether competition is undermining the shared goal.",
+    "money": "Avoid a deal that feels like winning only because someone else loses.",
+    "reflection": "What would a better outcome look like for everyone involved?"
+  },
+  "Six of Swords": {
+    "keywords": [
+      "transition",
+      "passage",
+      "support"
+    ],
+    "image": "A boat carries a seated adult and child across water; a rower stands behind six upright swords.",
+    "general": "The Six of Swords describes movement away from difficulty toward a calmer place. The journey may still carry old concerns.",
+    "love": "Give a transition time rather than expecting immediate ease.",
+    "work": "Plan a careful handover and accept help while changing direction.",
+    "money": "Make a gradual financial adjustment that reduces strain.",
+    "reflection": "What support would make this transition gentler?"
+  },
+  "Seven of Swords": {
+    "keywords": [
+      "strategy",
+      "secrecy",
+      "integrity"
+    ],
+    "image": "A figure carries five swords away from a camp while glancing back; two swords remain in the ground.",
+    "general": "The Seven of Swords raises questions about strategy and what is being left unsaid. Cleverness works best with integrity.",
+    "love": "Check whether privacy is healthy space or avoidance of a necessary truth.",
+    "work": "Protect an idea thoughtfully, but do not let secrecy damage trust.",
+    "money": "Read the fine print and be candid about risks in a shared decision.",
+    "reflection": "What are you avoiding by taking the indirect route?"
+  },
+  "Eight of Swords": {
+    "keywords": [
+      "restriction",
+      "belief",
+      "options"
+    ],
+    "image": "A blindfolded, loosely bound figure stands among eight swords; open ground and water remain nearby.",
+    "general": "The Eight of Swords pictures feeling trapped while some movement may still be possible. A first option can be small.",
+    "love": "Name a limit and ask what support could loosen it.",
+    "work": "Test one assumption about a blocked task before accepting it as fixed.",
+    "money": "Seek advice or a clearer view of choices when money feels constraining.",
+    "reflection": "What small freedom is available from where you stand?"
+  },
+  "Nine of Swords": {
+    "keywords": [
+      "worry",
+      "rumination",
+      "care"
+    ],
+    "image": "A person sits upright in bed with hands over their face; nine swords line the dark wall behind.",
+    "general": "The Nine of Swords shows how worry can fill the night. The feeling is real, but it is not the whole picture.",
+    "love": "Share a worry with someone safe instead of carrying it alone.",
+    "work": "Write down the concern, its evidence, and one next action for daylight.",
+    "money": "Separate an actual obligation from a feared scenario and seek help if needed.",
+    "reflection": "Which worry needs support rather than another hour of rumination?"
+  },
+  "Ten of Swords": {
+    "keywords": [
+      "ending",
+      "exhaustion",
+      "release"
+    ],
+    "image": "A figure lies beneath ten swords under a dark sky; light appears along the distant horizon.",
+    "general": "The Ten of Swords depicts a painful endpoint, with daylight still beyond it. Stop adding weight to what is already over.",
+    "love": "Let an ending be an ending and seek the care needed to recover.",
+    "work": "Close a failed approach, document what happened, and protect the team from repetition.",
+    "money": "Stabilize essentials before trying to recover a loss quickly.",
+    "reflection": "What can you stop carrying now that this chapter has ended?"
+  },
+  "Page of Swords": {
+    "keywords": [
+      "curiosity",
+      "questions",
+      "alertness"
+    ],
+    "image": "A young figure holds a raised sword on windy ground; clouds race behind them and birds cross the sky.",
+    "general": "The Page of Swords brings an alert, questioning mind. Curiosity becomes useful when it is paired with listening.",
+    "love": "Ask directly and avoid turning uncertainty into suspicion.",
+    "work": "Research an idea, challenge assumptions, and share findings constructively.",
+    "money": "Read the details and ask basic questions before agreeing.",
+    "reflection": "What question would help you learn rather than defend?"
+  },
+  "Knight of Swords": {
+    "keywords": [
+      "urgency",
+      "conviction",
+      "momentum"
+    ],
+    "image": "An armored rider charges forward with a sword; the horse races through wind-bent trees and clouds.",
+    "general": "The Knight of Swords acts quickly on a conviction. Speed can solve a problem or skip the people affected by it.",
+    "love": "Slow an intense conversation enough to hear a response.",
+    "work": "Move decisively on a clear issue while checking downstream impact.",
+    "money": "Do not let urgency replace a review of risk or terms.",
+    "reflection": "Where would one pause make your action more effective?"
+  },
+  "Queen of Swords": {
+    "keywords": [
+      "discernment",
+      "honesty",
+      "boundaries"
+    ],
+    "image": "A queen sits with an upright sword and outstretched hand; clouds and birds cross the open sky.",
+    "general": "The Queen of Swords pairs clear judgment with the experience behind it. Directness can be compassionate.",
+    "love": "State a boundary plainly without making it a punishment.",
+    "work": "Give specific feedback and invite a thoughtful response.",
+    "money": "Use clear criteria to evaluate a decision, even if sentiment pulls elsewhere.",
+    "reflection": "How can you be clear without becoming closed?"
+  },
+  "King of Swords": {
+    "keywords": [
+      "reason",
+      "ethics",
+      "leadership"
+    ],
+    "image": "A king holds an upright sword on a carved throne; butterflies, birds, and a pale sky surround him.",
+    "general": "The King of Swords uses reason in service of fair decisions. Authority carries a duty to explain its logic.",
+    "love": "Make a difficult decision transparent and hear the other person's view.",
+    "work": "Set standards consistently and review evidence before ruling.",
+    "money": "Seek qualified advice for complex choices and document the reasoning.",
+    "reflection": "What principle should guide this decision?"
+  },
+  "Ace of Pentacles": {
+    "keywords": [
+      "opportunity",
+      "resources",
+      "grounding"
+    ],
+    "image": "A hand offers a pentacle from a cloud above a garden; a path leads through an arch toward mountains.",
+    "general": "The Ace of Pentacles is a tangible opening. A promising resource grows through steady care and realistic steps.",
+    "love": "Notice the practical ways a bond could become more supportive.",
+    "work": "Give a new skill or offer a concrete trial with a clear next step.",
+    "money": "Examine the terms of an opportunity and plan how to use it well.",
+    "reflection": "What small investment could support lasting growth?"
+  },
+  "Two of Pentacles": {
+    "keywords": [
+      "balance",
+      "adaptation",
+      "rhythm"
+    ],
+    "image": "A figure moves two pentacles within an infinity loop; ships rise and fall on waves behind them.",
+    "general": "The Two of Pentacles is the ongoing work of balancing changing demands. Flexibility helps more than pretending all tasks weigh the same.",
+    "love": "Talk about time and energy so neither person has to guess.",
+    "work": "Reprioritize openly when two demands compete for the same hour.",
+    "money": "Track cash flow and adjust timing before taking on another commitment.",
+    "reflection": "What can shift to make this balance sustainable?"
+  },
+  "Three of Pentacles": {
+    "keywords": [
+      "collaboration",
+      "craft",
+      "feedback"
+    ],
+    "image": "A craftsperson works beneath an arch while two others look at plans; three pentacles decorate the stone above.",
+    "general": "The Three of Pentacles values skill built with others. Good work improves through clear roles and useful feedback.",
+    "love": "Treat a shared goal as something both people help build.",
+    "work": "Ask for specific feedback and recognize different expertise on the team.",
+    "money": "Price a project using real labor and materials, not guesswork.",
+    "reflection": "Whose perspective could improve the work?"
+  },
+  "Four of Pentacles": {
+    "keywords": [
+      "security",
+      "control",
+      "holding"
+    ],
+    "image": "A seated figure holds one pentacle while another rests on their head and two lie beneath their feet; a city stands behind.",
+    "general": "The Four of Pentacles asks whether protection has become rigidity. Security matters, but so does room to move.",
+    "love": "Notice whether fear of loss is limiting generosity or trust.",
+    "work": "Preserve a core resource while allowing considered experiments.",
+    "money": "Build a buffer, then decide what level of saving supports life rather than constrains it.",
+    "reflection": "What are you holding tightly, and why?"
+  },
+  "Five of Pentacles": {
+    "keywords": [
+      "hardship",
+      "support",
+      "access"
+    ],
+    "image": "Two figures walk through snow past a bright stained-glass window bearing five pentacles.",
+    "general": "The Five of Pentacles acknowledges strain and the isolation it can create. Support may be nearer than it feels.",
+    "love": "Ask for practical care without assuming you must manage hardship alone.",
+    "work": "Tell someone what resources or accommodations would help.",
+    "money": "Seek assistance and prioritize essentials before facing a shortfall alone.",
+    "reflection": "Where might help be available if you ask?"
+  },
+  "Six of Pentacles": {
+    "keywords": [
+      "giving",
+      "receiving",
+      "fairness"
+    ],
+    "image": "A standing figure weighs scales while offering coins to two kneeling people; six pentacles float above.",
+    "general": "The Six of Pentacles looks at how resources move between people. Fairness includes both generosity and the power around it.",
+    "love": "Discuss whether care and effort flow both ways.",
+    "work": "Share opportunities transparently and recognize unequal access to support.",
+    "money": "Give or receive help with clear expectations and respect.",
+    "reflection": "What would make this exchange more equitable?"
+  },
+  "Seven of Pentacles": {
+    "keywords": [
+      "patience",
+      "evaluation",
+      "cultivation"
+    ],
+    "image": "A gardener leans on a tool beside a vine bearing pentacles; one coin rests near their feet.",
+    "general": "The Seven of Pentacles is a pause to assess growth after sustained effort. Patience and evaluation belong together.",
+    "love": "Notice what a relationship has grown through consistent care.",
+    "work": "Review results and decide what to keep tending or change.",
+    "money": "Assess the return on a long-term effort without reacting to one day.",
+    "reflection": "What has grown, and what still needs time?"
+  },
+  "Eight of Pentacles": {
+    "keywords": [
+      "practice",
+      "diligence",
+      "mastery"
+    ],
+    "image": "A craftsperson works at a bench on a pentacle; finished pieces line a post and a town sits in the distance.",
+    "general": "The Eight of Pentacles honors repeated practice. Improvement comes from attention to the next piece, not instant mastery.",
+    "love": "Show care through dependable small actions.",
+    "work": "Build a skill through deliberate repetition and useful feedback.",
+    "money": "Invest in training or tools when they serve a clear craft or goal.",
+    "reflection": "What practice would make your work stronger?"
+  },
+  "Nine of Pentacles": {
+    "keywords": [
+      "independence",
+      "refinement",
+      "enjoyment"
+    ],
+    "image": "A woman stands in a vineyard with a hooded falcon on her glove; pentacles and a small snail appear among the vines.",
+    "general": "The Nine of Pentacles celebrates independence earned through patient cultivation. Enjoyment is part of the result.",
+    "love": "Value closeness without giving up the space that helps you flourish.",
+    "work": "Recognize the expertise and autonomy you have built.",
+    "money": "Enjoy a well-earned comfort while maintaining the habits that support it.",
+    "reflection": "What have you created that lets you feel at home with yourself?"
+  },
+  "Ten of Pentacles": {
+    "keywords": [
+      "legacy",
+      "belonging",
+      "continuity"
+    ],
+    "image": "An older figure sits near dogs beneath an arch while a family gathers; ten pentacles are woven across the scene.",
+    "general": "The Ten of Pentacles considers what lasts beyond one moment: family, shared resources, and systems of support.",
+    "love": "Talk about the kind of home or community you want to build together.",
+    "work": "Design work that can be maintained and passed on clearly.",
+    "money": "Plan for long-term needs and communicate across generations where relevant.",
+    "reflection": "What do you hope to leave stronger for others?"
+  },
+  "Page of Pentacles": {
+    "keywords": [
+      "study",
+      "potential",
+      "attention"
+    ],
+    "image": "A young figure gazes at a pentacle above a green field; trees and mountains lie beyond.",
+    "general": "The Page of Pentacles approaches a practical opportunity as a learner. Careful attention is the beginning of skill.",
+    "love": "Learn what helps a connection feel reliable, one action at a time.",
+    "work": "Choose a skill to study and give it regular practice.",
+    "money": "Research a new financial idea before committing significant resources.",
+    "reflection": "What practical subject are you ready to learn?"
+  },
+  "Knight of Pentacles": {
+    "keywords": [
+      "consistency",
+      "patience",
+      "duty"
+    ],
+    "image": "An armored rider sits on a still dark horse holding a pentacle; plowed fields stretch behind them.",
+    "general": "The Knight of Pentacles advances slowly and reliably. Consistency is powerful when the direction still matters.",
+    "love": "Show care through follow-through rather than promises alone.",
+    "work": "Maintain a steady process and check that routine serves the goal.",
+    "money": "Use a repeatable plan and review it before changing course.",
+    "reflection": "Where would patient consistency help most?"
+  },
+  "Queen of Pentacles": {
+    "keywords": [
+      "care",
+      "resourcefulness",
+      "comfort"
+    ],
+    "image": "A queen studies a pentacle on a carved throne amid flowers and trees; a rabbit appears near the ground.",
+    "general": "The Queen of Pentacles creates support through practical care. Comfort is built, maintained, and shared within limits.",
+    "love": "Offer tangible support while making room for your own needs.",
+    "work": "Create a workable environment where people can do good work.",
+    "money": "Spend on what sustains daily life and keep care within your means.",
+    "reflection": "What practical act of care would matter today?"
+  },
+  "King of Pentacles": {
+    "keywords": [
+      "stewardship",
+      "stability",
+      "abundance"
+    ],
+    "image": "A crowned figure holds a pentacle and scepter on a throne; vines, grapes, and a castle fill the scene.",
+    "general": "The King of Pentacles treats resources as a responsibility, not only a reward. Stability grows through stewardship.",
+    "love": "Build trust through dependable actions and shared planning.",
+    "work": "Lead with sound systems and invest in people as well as outcomes.",
+    "money": "Protect what has been built while deciding where it can do good.",
+    "reflection": "How can you use your resources responsibly?"
+  }
+}
