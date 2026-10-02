@@ -1,8 +1,8 @@
 import { readFileSync, existsSync } from "node:fs";
 import { join } from "node:path";
 
-const cards=JSON.parse(readFileSync(new URL("../app/cards.json",import.meta.url)));
-const articles=JSON.parse(readFileSync(new URL("../app/card-content.json",import.meta.url)));
+const cards=JSON.parse(readFileSync(new URL("../src/features/tarot/data/cards.json",import.meta.url)));
+const articles=JSON.parse(readFileSync(new URL("../src/features/tarot/data/card-content.json",import.meta.url)));
 const names=cards.map(card=>card.name);
 const fields=["image","general","love","work","money","reflection"];
 const issues=[];
