@@ -84,6 +84,9 @@ persistent serverless datastore. Set these environment variables:
 - `CMS_ADMIN_PASSWORD_HASH`: salted hash produced by setup.
 - `CMS_SESSION_SECRET`: random secret produced by setup, at least 32 characters.
 
+The Vercel Turso integration can provide `TURSO_DATABASE_URL` and
+`TURSO_AUTH_TOKEN` in place of the two `CMS_DATABASE_*` variables.
+
 The storage adapter uses the official [libSQL client](https://github.com/tursodatabase/libsql-client-ts).
 No hosted database or deployment has been provisioned by this implementation.
 Cloudflare D1 scaffolding remains separate; the CMS currently does not use it.

@@ -11,7 +11,8 @@ const port = Number(process.env.CMS_TEST_PORT ?? 5180);
 const base = `http://localhost:${port}`;
 let logs = "";
 const server = spawn(process.execPath, ["node_modules/next/dist/bin/next", "start", "--port", String(port)], {
-  env: { ...process.env, CMS_DATABASE_URL: `file:${join(directory, "content.db")}`, CMS_DATABASE_AUTH_TOKEN: "",
+  env: { ...process.env, CMS_DATABASE_URL: "", CMS_DATABASE_AUTH_TOKEN: "",
+    TURSO_DATABASE_URL: `file:${join(directory, "content.db")}`, TURSO_AUTH_TOKEN: "",
     CMS_ADMIN_PASSWORD_HASH: `${salt}:${scryptSync(password, salt, 64).toString("hex")}`,
     CMS_SESSION_SECRET: randomBytes(32).toString("hex"), VERCEL: "" },
   stdio: ["ignore", "pipe", "pipe"],
@@ -109,7 +110,7 @@ try {
 
 // The public gallery must still load on Vercel before hosted CMS storage is configured.
 const fallbackServer = spawn(process.execPath, ["node_modules/next/dist/bin/next", "start", "--port", String(port)], {
-  env: { ...process.env, VERCEL: "1", CMS_DATABASE_URL: "", CMS_DATABASE_AUTH_TOKEN: "",
+  env: { ...process.env, VERCEL: "1", CMS_DATABASE_URL: "", CMS_DATABASE_AUTH_TOKEN: "", TURSO_DATABASE_URL: "", TURSO_AUTH_TOKEN: "",
     CMS_ADMIN_PASSWORD_HASH: "", CMS_SESSION_SECRET: "" }, stdio: "ignore",
 });
 try {

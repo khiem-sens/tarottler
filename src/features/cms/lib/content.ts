@@ -27,7 +27,7 @@ export function getContentStore(): Promise<ContentStore> {
 }
 
 export async function publishedArticles(): Promise<PublishedArticles> {
-  if (process.env.VERCEL && !process.env.CMS_DATABASE_URL) {
+  if (process.env.VERCEL && !process.env.CMS_DATABASE_URL && !process.env.TURSO_DATABASE_URL) {
     const english = Object.fromEntries(cards.map(card => [card.name, {
       ...(articles as Record<string, CardArticle>)[card.name], contentLanguage: "en" as const,
     }]));

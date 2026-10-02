@@ -90,8 +90,8 @@ export class ContentStore {
 }
 
 export function createContentClient() {
-  const url = process.env.CMS_DATABASE_URL;
-  if (!url && process.env.VERCEL) throw new Error("Set CMS_DATABASE_URL and CMS_DATABASE_AUTH_TOKEN for a hosted CMS database.");
+  const url = process.env.CMS_DATABASE_URL || process.env.TURSO_DATABASE_URL;
+  if (!url && process.env.VERCEL) throw new Error("Set CMS_DATABASE_URL or TURSO_DATABASE_URL for a hosted CMS database.");
   if (!url) mkdirSync(join(process.cwd(), ".cms"), { recursive: true });
-  return createClient({ url: url ?? `file:${join(process.cwd(), ".cms/content.db")}`, authToken: process.env.CMS_DATABASE_AUTH_TOKEN });
+  return createClient({ url: url ?? `file:${join(process.cwd(), ".cms/content.db")}`, authToken: process.env.CMS_DATABASE_AUTH_TOKEN || process.env.TURSO_AUTH_TOKEN });
 }
