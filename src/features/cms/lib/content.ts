@@ -27,6 +27,12 @@ export function getContentStore(): Promise<ContentStore> {
 }
 
 export async function publishedArticles(): Promise<PublishedArticles> {
+  if (process.env.VERCEL && !process.env.CMS_DATABASE_URL) {
+    const english = Object.fromEntries(cards.map(card => [card.name, {
+      ...(articles as Record<string, CardArticle>)[card.name], contentLanguage: "en" as const,
+    }]));
+    return { en: english, vi: english };
+  }
   const documents = await (await getContentStore()).list();
   const translations: PublishedArticles = { en: {}, vi: {} };
   for (const card of cards) {

@@ -106,3 +106,25 @@ try {
   server.kill("SIGTERM");
   await new Promise(resolve => { if (server.exitCode !== null) resolve(); else server.once("exit", resolve); });
 }
+
+// The public gallery must still load on Vercel before hosted CMS storage is configured.
+const fallbackServer = spawn(process.execPath, ["node_modules/next/dist/bin/next", "start", "--port", String(port)], {
+  env: { ...process.env, VERCEL: "1", CMS_DATABASE_URL: "", CMS_DATABASE_AUTH_TOKEN: "",
+    CMS_ADMIN_PASSWORD_HASH: "", CMS_SESSION_SECRET: "" }, stdio: "ignore",
+});
+try {
+  let response;
+  for (let attempt = 0; attempt < 100; attempt++) {
+    if (fallbackServer.exitCode !== null) throw new Error("Fallback server exited before responding.");
+    try { response = await fetch(`${base}/cards/the-fool?lang=vi`); break; } catch { await new Promise(resolve => setTimeout(resolve, 100)); }
+  }
+  assert.equal(response?.status, 200);
+  const page = await response.text();
+  assert(page.includes("Bản tiếng Việt chưa được xuất bản"));
+  assert(page.includes("The Fool invites a new start"));
+  assert.equal((await fetch(base)).status, 200);
+  console.log("Public fallback passed without hosted CMS configuration.");
+} finally {
+  fallbackServer.kill("SIGTERM");
+  await new Promise(resolve => { if (fallbackServer.exitCode !== null) resolve(); else fallbackServer.once("exit", resolve); });
+}
